@@ -1,0 +1,25 @@
+h1,
+h2,
+p {
+  margin: 0;
+}
+
+.title {
+  color: rgb(215, 20, 20);
+}
+.btnlist {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.statisticstitle {
+  margin-top: 20px;
+}
+
+.button {
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+}

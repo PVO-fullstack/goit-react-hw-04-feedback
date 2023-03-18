@@ -1,0 +1,22 @@
+.btnlist {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.statisticstitle {
+  margin-top: 20px;
+}
+
+.button {
+  width: 140px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.button:hover {
+  background-color: blue;
+}
